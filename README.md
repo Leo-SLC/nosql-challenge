@@ -13,3 +13,6 @@ https://stackoverflow.com/questions/63011870/pymongo-aggregation-attributeerror-
 https://stackoverflow.com/questions/38365414/how-to-find-similarity-in-document-field-mongodb
 
 https://sparkbyexamples.com/mongodb/mongodb-check-if-a-field-contains-a-string/#:~:text=Using%20the%20%24regex%20Operator%3A,matching%20within%20the%20specified%20field.
+
+https://www.mongodb.com/community/forums/t/unrecognized-pipeline-stage-name-search/111883/4
+
